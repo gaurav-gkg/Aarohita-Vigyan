@@ -5,13 +5,13 @@ A beautiful full-stack todo application with Navy & Gold theme and glassmorphism
 ## 📸 Screenshots
 
 ### Main Dashboard
+![TaskCraft Interface](https://github.com/gaurav-gkg/Aarohita-Vigyan/blob/main/assets/Screenshot%202025-09-09%20145849.png)
 
-
-### Task Creation Modal
-
+### Task Creation
+![TaskCraft Interface](https://github.com/gaurav-gkg/Aarohita-Vigyan/blob/main/assets/Screenshot%202025-09-09%20145948.png)
 
 ### Task Management
-
+![TaskCraft Interface](https://github.com/gaurav-gkg/Aarohita-Vigyan/blob/main/assets/Screenshot%202025-09-09%20145912.png)
 
 ## ✨ Key Features
 
